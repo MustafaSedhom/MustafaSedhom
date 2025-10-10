@@ -66,6 +66,7 @@
 | **Communication Protocols** | UART • I2C • SPI • Wi-Fi • Bluetooth • HTTP (IoT) |
 | **Embedded Software** | Working with **FreeRTOS**, **drivers**, and **interrupts** |
 | **Smart Home Integration** | Combining **Flutter apps** with **ESP32** & **Nextion Displays** |
+| **Embedded GUI** | use **Nextion Editor** & **Nextion Displays** |
 
 ---
 
