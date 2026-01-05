@@ -7,7 +7,7 @@
 
 ### 🧑‍💻 About Me
 
-- 👋 Hi! I’m **Eng. MUstafa Shawky Sedhom**,  
+- 👋 Hi! I’m **Eng. Mustafa Shawky Sedhom**,  
 - 🎓 A Computer Science student at **Menoufia University, Faculty of Science, Department of Mathematics and Computer Science**.
 - 🌐 Specializing in **Embedded Systems & IoT**.  
 - ⚙️ I design, code, and build smart systems using **ESP**, **STM32**, **AVR**, and **Flutter**.  
